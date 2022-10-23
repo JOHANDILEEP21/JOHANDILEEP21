@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JOHANDILEEP21
-- 👀 I’m interested in Learning.
+- 👀 I’m interested in Learning new things.
 - 🌱 I’m currently learning Data Science, Machine Learning...
 
 <!---

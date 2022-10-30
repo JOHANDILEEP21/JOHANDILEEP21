@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @JOHANDILEEP21
+- 👋 Hi, I’m @DILEEPKUMAR_T
 - 👀 I’m interested in Learning new things.
-- 🌱 I’m currently learning Data Science, Machine Learning...
-
-<!---
-JOHANDILEEP21/JOHANDILEEP21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning Data Science, Machine Learning, IIT-M Advance Professional Programming...
+- revolving_hearts I’m looking to collaborate on ML and NLP Projects
+- mailbox How to reach me : johandileep3@gmail.com

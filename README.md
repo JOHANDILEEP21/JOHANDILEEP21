@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @DILEEPKUMAR_T
+-   Data Scientist - IITM Certified.
+-   Currently doing Data Science Internships and Tech support intern with GUVI.
+-   Recently completed Data Science Intern at Internsavy, Codeclause, Yoshops.
 - 👀 I’m interested in Learning new things.
 - 🌱 I’m currently Working as a Data Science Intern.
 - revolving_hearts I’m looking to collaborate on ML and NLP Projects

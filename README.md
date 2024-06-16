@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @DILEEPKUMAR_T
--   Data Scientist - IITM Certified.
--   Currently doing Data Science Internships and Tech support intern with GUVI.
--   Recently completed Data Science Intern at Internsavy, Codeclause, Yoshops.
-- 👀 I’m interested in Learning new things.
-- 🌱 I’m currently Working as a Data Science Intern.
-- revolving_hearts I’m looking to collaborate on ML and NLP Projects
+-   Experienced Data Analyst with over 1.3 years in data analytics and data science.
+-   Proven expertise in data preparation, transformation, automation, data modelling, analysis, reporting, and visualization across Healthcare - Telemedicine and E-Commerce domains. Skilled in designing complex database models and developing analytical for reporting and strategic insights. Proficient in DBMS programming (Python, SQL) and Data Visualization tools (Apache Superset, Excel, Power BI).
 - mailbox How to reach me : johandileep3@gmail.com
